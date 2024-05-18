@@ -2,7 +2,7 @@
 <body>
     <div class="content">
         <h1>Decoders: Advancing Forensic Identification</h1>
-      <center><img src="logo.png" alt="Decoders Logo" width=50%></center>
+      <center><img src="profile/logo.png" alt="Decoders Logo" width=50%></center>
         <p>Welcome to the GitHub organization for <strong>Team Decoders</strong>. Our team is committed to revolutionizing forensic identification through innovative AI-driven solutions. Our flagship project is the <strong>Stable Diffusion Based Criminal Face Generation Platform for Forensic Identification</strong>.</p>
         
   <h2>Project Overview</h2>
